@@ -1,3 +1,9 @@
+<img width="1912" height="902" alt="image" src="https://github.com/user-attachments/assets/f5a0ac87-890e-414a-8c2a-9e11e7262c7c" />
+
+
+
+
+
 📌 React + Spring Boot CRUD Application
 
 This project helped me learn how to build a full-stack web application using Spring Boot REST APIs, React frontend, and MySQL database.
